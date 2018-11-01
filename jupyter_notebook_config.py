@@ -1,5 +1,5 @@
 # Accept all incoming requests
-c.NotebookApp.ip = '*'
+c.NotebookApp.ip = '0.0.0.0'
 
 c.NotebookApp.port = 8888
 
